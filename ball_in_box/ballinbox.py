@@ -54,6 +54,5 @@ def ball_in_box(m, blockers):
         y = BalloonYPos[circle_index]
         r = BalloonR[circle_index]
         circles.append((x, y, r))
-        circle_index += 1
     
     return circles
