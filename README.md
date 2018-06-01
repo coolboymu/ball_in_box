@@ -1,2 +1,2 @@
 # teamwork1
-the first homework
+just run the area_sum and get the result
